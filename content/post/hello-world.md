@@ -9,10 +9,11 @@ tags:
   - Hugo
   - Netlify CMS
 keywords:
-  - New Blog
+  - New Bloge
+  - Ostias
 autoThumbnailImage: false
 thumbnailImagePosition: top
-coverImage: /images/uploads/cover-post.jpg
+coverImage: ''
 ---
 I decided to gift myself a new blog and here is the result ;)
 <!--more-->
